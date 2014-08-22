@@ -8,4 +8,5 @@ This project is the step Two
 
 http://damianflannery.wordpress.com/2011/06/13/integrate-zxing-barcode-scanner-into-your-android-app-natively-using-eclipse/
 
-
+if do you want download other core.jar yoy can find them here
+http://repo1.maven.org/maven2/com/google/zxing/core/
